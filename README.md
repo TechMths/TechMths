@@ -2,7 +2,7 @@
 ## 👨‍💻 Hello! Nice to meet you!
 I am a new developer in the tech area. 
 
-And, that somethings about me!
+And, that some things about me!
 
 <div>
   <a href="https://github.com/techmths">
