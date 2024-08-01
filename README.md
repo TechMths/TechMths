@@ -2,7 +2,7 @@
 ## 👨‍💻 Hello! Nice to meet you!
 I am a new developer in the tech area. 
 
-And, that is my README file executed by the instructions of DIO .
+And, that somethings about me!
 
 <div>
   <a href="https://github.com/techmths">
