@@ -13,7 +13,7 @@ And, that some things about me!
 ## 🎮About me!
 <div>
   <a>
-  My name is Matheus, i'm 19 years old.
+  My name is Matheus, i'm 20 years old.
   
   At moment you are reading this, i am in the collage [Fatec São Paulo](https://www.fatecsp.br/), third semester to be more specific.
   
