@@ -1,6 +1,6 @@
 
 ## 👨‍💻 Hello! Nice to meet you!
-I am a new developer in the tech area. 
+I am a developer in the tech area. 
 
 And, that some things about me!
 
@@ -21,7 +21,7 @@ And, that some things about me!
   
   **My hobbies are:**
   
-  Games🕹 ⭐: Skyrim, Terraria, Minecraft, Pokemon. 
+  Games🕹 ⭐: Skyrim, Terraria, Minecraft, Pokemon, TCGs.
   
   Movies and Series🎞 ⭐: Game of thrones, Lord of the Rings, Interstellar.
   
