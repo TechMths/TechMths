@@ -6,8 +6,8 @@ And, that some things about me!
 
 <div>
   <a href="https://github.com/techmths">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=techmths&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmths&layout=compact&langs_count=16&theme=dark&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=techmths&show_icons=true&theme=dark&include_all_commits=true&count_private=true"&cache_seconds=0/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmths&layout=compact&langs_count=16&theme=dark&count_private=true"&cache_seconds=0/>
 </div>
 
 ## 🎮About me!
