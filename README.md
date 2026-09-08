@@ -4,24 +4,18 @@ I am a developer in the tech area.
 
 And, that some things about me!
 
-<div>
-  <a href="https://github.com/techmths">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=techmths&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techmths&layout=compact&langs_count=20&theme=dark&count_private=true"&cache_seconds=0/>
-</div>
-
 ## 🎮About me!
 <div>
   <a>
-  My name is Matheus, i'm 20 years old.
+  My name is Matheus, i'm 22 years old.
   
-  At moment you are reading this, i am in the collage [Fatec São Paulo](https://www.fatecsp.br/), fifth semester to be more specific.
+  I have a tec degree in Analyses and Development of Systems by [Fatec São Paulo](https://www.fatecsp.br/)
   
-  I like a lot to study technology and other scientific things (astronomy and physics).
+  A lover of technology and other scientific things (astronomy and physics includes). But, specially the tech world.
   
   **My hobbies are:**
   
-  Games🕹 ⭐: Skyrim, Terraria, Minecraft, Pokemon, TCGs.
+  Games🕹 ⭐: Skyrim, Terraria, Minecraft, Pokemon, Rimworld and whatever comes.
   
   Movies and Series🎞 ⭐: Game of thrones, Lord of the Rings, Interstellar.
   
