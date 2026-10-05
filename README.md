@@ -72,6 +72,7 @@
     <td width="50%">
       <b>🔎 RAG com API de cartas de Yu-Gi-Oh!</b><br/>
       Protótipo de Retrieval-Augmented Generation usando Ollama + FastAPI, consultando uma API pública de cartas.
+      <a href="https://github.com/TechMths/https://github.com/TechMths/RAG-Project-Using-a-YuGiOh--API">Ver repositório →</a>
     </td>
     <td width="50%">
       <b>🎮 Prison Escape</b><br/>
